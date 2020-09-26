@@ -1,0 +1,21 @@
+{
+  "name": "hotdq",
+  "title": "Hoard of The Dragon Queen",
+  "description": "Compendium para a campanha Hoard of The Dragon Queen.",
+  "author": "leonpf",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.6.5",
+  "packs": [
+    {
+      "name": "Etc",
+      "label": "HOTDQ - Monstros",
+      "path": "packs/actors.db",
+      "entity": "Actor",
+      "module": "hotdq"
+    }
+  ],
+  "url": "https://github.com/leonpf/hotdq",
+  "manifest": "https://raw.githubusercontent.com/leonpf/hotdq/master/module.json",
+  "download": "https://github.com/leonpf/hotdq/archive/master.zip"
+}
